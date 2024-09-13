@@ -21,7 +21,7 @@ Software Engineer Intern
 ## Project
 
 
-- **[Full Stack Web Developer Nanodegree, Udacity](#)** *May 2024-Jul 2024*
+- **[Full Stack Web Developer Nanodegree, Udacity](#)** &nbsp; *May 2024-Jul 2024*
 
     - Developed a Flask-based RESTful API to manage the coffee shop's menu and user data, using SQLAlchemy for database interactions with PostgreSQL.
     - Implemented endpoints for CRUD operations and handled data migrations.
@@ -29,23 +29,24 @@ Software Engineer Intern
     - Deployed the application on AWS, utilizing EC2 for server hosting, RDS for PostgreSQL database management, and S3 for static asset storage.   
     - Configured AWS Lambda for serverless functions to handle background tasks, enhancing scalability and performance.
 
-- **[Real-World Algorithms for IoT Implementation](https://github.com/jinxyou/UIUC-ECE434)** *Jan 2023-May 2023*
+- **[Real-World Algorithms for IoT Implementation](https://github.com/jinxyou/UIUC-ECE434)** &nbsp; *Jan 2023-May 2023*
 
     - Developed data visualization for phone accelerometer readings and implemented pedestrian dead-reckoning using accelerometer and gyroscope data for 3D orientation tracking.
     - Applied DUET algorithms to separate mixed voice signals from microphone inputs and used delay-and-sum techniques to determine the angle of arrival of voices in a microphone array.
     - Utilized dynamic time warping to identify and reconstruct missing windows of ECG data from a smartwatch.
 
-- **[Restaurant Rating Web Platform (Java Full Stack)]** *Aug 2022 – Dec 2022*
+- **[Restaurant Rating Web Platform (Java Full Stack)]** &nbsp; *Aug 2022 – Dec 2022*
     - Constructed a database structure including restaurants, dishes, prices, ratings and reviews, based on PostgreSQL.
     - Created backend REST APIs framework by Spring Boot and establish connection with database by mybatis, react.js as frontend.
     - Employed advanced SQL queries and utilized transactions to ensure concurrency control and data integrity.
 
-- **[Lung Cancer Diagnosis and Nodule Prediction System]** *Jun 2021 – Aug 2021*
+- **[Lung Cancer Diagnosis and Nodule Prediction System]** &nbsp; *Jun 2021 – Aug 2021*
     - Set up and deployed a deep neural network on Google Cloud for nodule detection in 3-D CT scan images, including training and deployment of the model.
     - Designed and implemented an application using Spring Cloud with a separate frontend and backend, providing administrators with access to backend data and dictionaries, and clients with login and account management functionalities.
     - Produced a paper based on the work and was accepted by IYSF Conference.
 
-- **[Mathematical Contest in Modeling, Team Captain]** *Feb 2021*
+- **Mathematical Contest in Modeling** &nbsp; *Feb 2021*  
+Team Captain
     - Organized techniques of research and delegate responsibility with team members.
     - Analyzed the probability of hornet appearance on Vancouver Island with Bayesian model, decision tree, based on dataset of appearance coordinates. Utilized feature recognition to analyze the images of hornets, in order to identify their validity.
     - Wrote paper as a report of our technique to address the problem, was awarded as Honorable Mention.
@@ -71,4 +72,9 @@ Master of Engineering in Electric & Computer Engineering
 Bachelor of Engineering in Computer Science
 
 
+## Follow me on social media!
 
+- **[Github](https://github.com/jinxyou)**
+- **[LinkedIn](https://linkedin.com/in/jinxyou)**
+- **[X/Twitter](https://x.com/jinxiongyou)**
+- **[Facebook](https://www.facebook.com/eugeneuuuu)**
