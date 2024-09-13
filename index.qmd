@@ -4,6 +4,8 @@ title: "Jinxiong 'Eugene' You"
 
 # Welcome!
 
+![My Profile Picture](images/profile.jpg){width=150 style="border-radius: 50%;"}
+
 Hello! I'm Jinxiong You, and you might know me as Eugene. 
 
 
@@ -56,7 +58,7 @@ Team Captain
 
 ## Publication
 
-[Nodules detection by deep convolutional neural network and its application](https://github.com/jinxyou/ECE434)
+- [Nodules detection by deep convolutional neural network and its application](https://github.com/jinxyou/ECE434)
 
 
 
@@ -78,3 +80,7 @@ Bachelor of Engineering in Computer Science
 - **[LinkedIn](https://linkedin.com/in/jinxyou)**
 - **[X/Twitter](https://x.com/jinxiongyou)**
 - **[Facebook](https://www.facebook.com/eugeneuuuu)**
+
+[![Twitter](https://img.shields.io/badge/Follow_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jinxiongyou)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jinxyou)
+[![GitHub](https://img.shields.io/badge/Follow_GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jinxyou)
