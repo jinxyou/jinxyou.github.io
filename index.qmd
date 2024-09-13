@@ -1,0 +1,42 @@
+---
+title: "Jinxiong You"
+---
+
+# Welcome!
+
+Hello! I'm Jinxiong You, or you might know me as Eugene. 
+
+---
+
+## Work Experience
+
+- **[Bosch Engineering GmbH, Dec 2021 – Jun 2022](#)**: Software Engineering Intern
+- **[One Community Global, May 2024 – Present](#)**: Software Engineer
+
+
+## Project
+
+Here are a few of my recent projects:
+
+- **[Full Stack Web Developer Nanodegree, Udacity](#)**: Brief description of what this project is and what technologies you used.
+- **[Real-World Algorithms for IoT Implementation](#)**: Brief description of what this project is and what technologies you used.
+- **[Lung Cancer Diagnosis and Nodule Prediction System](#)**: Brief description of what this project is and what technologies you used.
+
+---
+
+## Publication
+
+[Nodules detection by deep convolutional neural network and its application](https://github.com/jinxyou/ECE434)
+
+---
+
+## Education
+
+- **[University of Illinois at Urbana-Champaign, Aug 2022 – Dec 2023](#)**: Master of Engineering in Computer Engineering
+- **[Soochow University, China, Sep 2018 – Jun 2022](#)**: Bachelor of Engineering in Computer Science
+
+
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
