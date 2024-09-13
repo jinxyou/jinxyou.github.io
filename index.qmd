@@ -37,6 +37,8 @@ Here are a few of my recent projects:
 - **[Soochow University, China, Sep 2018 – Jun 2022](#)**: Bachelor of Engineering in Computer Science
 
 
+Thank you.
+
 
 This is a Quarto website.
 
