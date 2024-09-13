@@ -32,6 +32,7 @@ Here are a few of my recent projects:
 
 ## Education
 
+- **[University of British Columbia, Aug 2024 – Jun 2025](#)** Master of Data Science
 - **[University of Illinois at Urbana-Champaign, Aug 2022 – Dec 2023](#)**: Master of Engineering in Computer Engineering
 - **[Soochow University, China, Sep 2018 – Jun 2022](#)**: Bachelor of Engineering in Computer Science
 
