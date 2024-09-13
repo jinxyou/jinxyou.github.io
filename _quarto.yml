@@ -11,10 +11,10 @@ website:
     right:
       - icon: github
         href: https://github.com/jinxyou
-      - icon: twitter
-        href: https://x.com/jinxiongyou
       - icon: linkedin
         href: https://linkedin.com/in/jinxyou
+      - icon: twitter
+        href: https://x.com/jinxiongyou
       - icon: facebook
         href: https://www.facebook.com/eugeneuuuu
 
