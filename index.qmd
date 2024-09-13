@@ -1,12 +1,12 @@
 ---
-title: "Jinxiong You"
+title: "Jinxiong 'Eugene' You"
 ---
 
 # Welcome!
 
-Hello! I'm Jinxiong You, or you might know me as Eugene. 
+Hello! I'm Jinxiong You, and you might know me as Eugene. 
 
----
+
 
 ## Work Experience
 
@@ -22,13 +22,13 @@ Here are a few of my recent projects:
 - **[Real-World Algorithms for IoT Implementation](#)**: Brief description of what this project is and what technologies you used.
 - **[Lung Cancer Diagnosis and Nodule Prediction System](#)**: Brief description of what this project is and what technologies you used.
 
----
+
 
 ## Publication
 
 [Nodules detection by deep convolutional neural network and its application](https://github.com/jinxyou/ECE434)
 
----
+
 
 ## Education
 
