@@ -76,6 +76,6 @@ Bachelor of Engineering in Computer Science
 
 ## Follow me on social media!
 
-[![Twitter](https://img.shields.io/badge/Follow_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jinxiongyou)  
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jinxyou)  
-[![GitHub](https://img.shields.io/badge/Follow_GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jinxyou)  
+[![Twitter](https://img.shields.io/badge/Follow_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jinxiongyou) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jinxyou) &nbsp;
+[![GitHub](https://img.shields.io/badge/Follow_GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jinxyou) &nbsp;
