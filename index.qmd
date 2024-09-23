@@ -58,19 +58,19 @@ Team Captain
 
 ## Publication
 
-- [Nodules detection by deep convolutional neural network and its application](https://github.com/jinxyou/ECE434)
+- [Nodules detection by deep convolutional neural network and its application](http://dx.doi.org/10.1117/12.2622996)
 
 
 
 ## Education
 
-- **[University of British Columbia](#)** *Aug 2024 – Jun 2025*  
+- **[University of British Columbia](https://www.ubc.ca/)** *Aug 2024 – Jun 2025*  
 Master of Data Science
 
-- **[University of Illinois Urbana-Champaign](#)** *Aug 2022 – Dec 2023*  
+- **[University of Illinois Urbana-Champaign](https://illinois.edu/)** *Aug 2022 – Dec 2023*  
 Master of Engineering in Electric & Computer Engineering
 
-- **[Soochow University, China](#)** *Sep 2018 – Jun 2022*  
+- **[Soochow University, China](https://eng.suda.edu.cn/)** *Sep 2018 – Jun 2022*  
 Bachelor of Engineering in Computer Science
 
 
