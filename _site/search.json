@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jinxiong ‘Eugene’ You",
@@ -40,5 +33,12 @@
     "title": "Jinxiong ‘Eugene’ You",
     "section": "",
     "text": "University of British Columbia Aug 2024 – Jun 2025\nMaster of Data Science\nUniversity of Illinois Urbana-Champaign Aug 2022 – Dec 2023\nMaster of Engineering in Electric & Computer Engineering\nSoochow University, China Sep 2018 – Jun 2022\nBachelor of Engineering in Computer Science"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
