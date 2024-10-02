@@ -4,7 +4,7 @@ title: "Jinxiong 'Eugene' You"
 
 # Welcome!
 
-![](images/profile.jpg){width=200px style="border-radius: 50%;"}
+![](images/profile.jpg){width=300px style="border-radius: 50%;"}
 
 
 Hello! I'm Jinxiong You, and you might know me as Eugene. 
@@ -34,11 +34,12 @@ Software Engineer Intern
 
 - **[Real-World Algorithms for IoT Implementation](https://github.com/jinxyou/UIUC-ECE434)** &nbsp; *Jan 2023-May 2023*
 
-    - Developed data visualization for phone accelerometer readings and implemented pedestrian dead-reckoning using accelerometer and gyroscope data for 3D orientation tracking.
+    - Developed data visualization for phone accelerometer readings
+    - Implemented pedestrian dead-reckoning using accelerometer and gyroscope data for 3D orientation tracking.
     - Applied DUET algorithms to separate mixed voice signals from microphone inputs and used delay-and-sum techniques to determine the angle of arrival of voices in a microphone array.
     - Utilized dynamic time warping to identify and reconstruct missing windows of ECG data from a smartwatch.
 
-- **[Restaurant Rating Web Platform (Java Full Stack)]** &nbsp; *Aug 2022 – Dec 2022*
+- **[Restaurant Rating Web Platform (Java Full Stack)](https://github.com/jinxyou/restaurant-rating-platform)** &nbsp; *Aug 2022 – Dec 2022*
     - Constructed a database structure including restaurants, dishes, prices, ratings and reviews, based on PostgreSQL.
     - Created backend REST APIs framework by Spring Boot and establish connection with database by mybatis, react.js as frontend.
     - Employed advanced SQL queries and utilized transactions to ensure concurrency control and data integrity.
