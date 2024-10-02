@@ -4,7 +4,7 @@ title: "Jinxiong 'Eugene' You"
 
 # Welcome!
 
-<img src="images/profile.jpg" alt="My Profile Picture" class="circular-img">
+![](images/profile.jpg){width=200px style="border-radius: 50%;"}
 
 
 Hello! I'm Jinxiong You, and you might know me as Eugene. 
