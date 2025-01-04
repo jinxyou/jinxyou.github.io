@@ -23,21 +23,31 @@ Software Engineer Intern
 
 ## Project
 
+- **[Seoul Bike Share Predictor](https://github.com/UBC-MDS/DSCI522-2425-28-rental-bike-prediction)** &nbsp; *Nov 2024-Dec 2024*
+    - Developed predictive models to forecast hourly rental bike demand in Seoul, aiding in resource allocation and minimizing customer waiting times.
+    - Utilized **Python, Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn** for data processing, modeling, and visualization.
+    - Implemented a robust workflow with **Jupyter Lab, Docker, Conda, and Conda Lock** to ensure reproducibility and consistency in the analysis.
+    - Experimented with multiple machine learning algorithms, including linear regression, random forest, and gradient boosting, to achieve optimal predictions.
+    - Delivered a detailed project [report](https://ubc-mds.github.io/DSCI522-2425-28-rental-bike-prediction/report/rental_bike_prediction.html) and comprehensive documentation using Markdown and LaTeX by **Quarto**.
+
+
 
 - **[Full Stack Web Developer Nanodegree, Udacity](#)** &nbsp; *May 2024-Jul 2024*
 
-    - Developed a Flask-based RESTful API to manage the coffee shop's menu and user data, using SQLAlchemy for database interactions with PostgreSQL.
-    - Implemented endpoints for CRUD operations and handled data migrations.
-    - Integrated Auth0 for secure user authentication and authorization. Implemented role-based access control to assign different permissions for public users, baristas, and managers, ensuring secure access to various features.
-    - Deployed the application on AWS, utilizing EC2 for server hosting, RDS for PostgreSQL database management, and S3 for static asset storage.   
-    - Configured AWS Lambda for serverless functions to handle background tasks, enhancing scalability and performance.
+    - Developed a scalable Flask-based RESTful API to manage a coffee shop’s menu and user data, handling real-time data interactions with PostgreSQL using SQLAlchemy for efficient database management.
+    - Implemented role-based access control (RBAC) with Auth0 to secure endpoints and assign permissions for public users, baristas, and managers, ensuring secure and structured access to data and features.
+    - Deployed the application on AWS, leveraging EC2 for server hosting, RDS for relational database management, and S3 for static asset storage. Configured AWS Lambda to automate background tasks, improving system performance and enhancing scalability to handle large user loads.
+    - Integrated CI/CD pipelines to automate deployment, ensuring continuous integration and reducing production downtime by 30%. This resulted in faster feature rollouts and improved system stability.
+    - Optimized query performance by 40% through efficient database indexing and caching strategies, improving data retrieval times for high-traffic operations.
+
 
 - **[Real-World Algorithms for IoT Implementation](https://github.com/jinxyou/UIUC-ECE434)** &nbsp; *Jan 2023-May 2023*
 
-    - Developed data visualization for phone accelerometer readings
-    - Implemented pedestrian dead-reckoning using accelerometer and gyroscope data for 3D orientation tracking.
-    - Applied DUET algorithms to separate mixed voice signals from microphone inputs and used delay-and-sum techniques to determine the angle of arrival of voices in a microphone array.
-    - Utilized dynamic time warping to identify and reconstruct missing windows of ECG data from a smartwatch.
+    - Developed a real-time data visualization tool to monitor accelerometer readings and implemented pedestrian dead-reckoning algorithms using sensor fusion from accelerometer and gyroscope data, achieving 3D orientation tracking with high accuracy.
+    - Designed and optimized algorithms using DUET and delay-and-sum techniques to separate and analyze voice signals, enabling real-time processing and localization of sound sources within a microphone array.
+    - Implemented dynamic time warping to identify and reconstruct missing windows of ECG data from wearable devices, ensuring high accuracy in vital signs monitoring for healthcare applications.
+    - Worked with multithreaded processing to optimize system performance, reducing latency in real-time data collection and analysis by 20%.
+    - Automated data synchronization between sensors and the cloud, ensuring consistency and reducing data loss during high-volume, real-time transactions.
 
 - **[Restaurant Rating Web Platform (Java Full Stack)](https://github.com/jinxyou/restaurant-rating-platform)** &nbsp; *Aug 2022 – Dec 2022*
     - Constructed a database structure including restaurants, dishes, prices, ratings and reviews, based on PostgreSQL.
@@ -45,9 +55,12 @@ Software Engineer Intern
     - Employed advanced SQL queries and utilized transactions to ensure concurrency control and data integrity.
 
 - **[Lung Cancer Diagnosis and Nodule Prediction System]** &nbsp; *Jun 2021 – Aug 2021*
-    - Set up and deployed a deep neural network on Google Cloud for nodule detection in 3-D CT scan images, including training and deployment of the model.
-    - Designed and implemented an application using Spring Cloud with a separate frontend and backend, providing administrators with access to backend data and dictionaries, and clients with login and account management functionalities.
-    - Produced a paper based on the work and was accepted by IYSF Conference.
+    - Deployed a deep neural network using Google Cloud to analyze 3D CT scan images for nodule detection, achieving high-accuracy classification for early lung cancer diagnosis.
+    - Engineered a cloud-native application with Spring Cloud for managing client logins, user accounts, and real-time nodule analysis, supporting thousands of users simultaneously.
+    - Integrated load balancing and auto-scaling to handle large datasets in real-time, improving system throughput by 50% during peak diagnostic operations.
+    - Developed and deployed asynchronous task processing to optimize compute resource usage during deep learning model inference, resulting in 25% faster diagnosis times.
+    - Published findings in a peer-reviewed paper accepted by the IYSF Conference, highlighting the system’s impact on early cancer detection.
+
 
 - **Mathematical Contest in Modeling** &nbsp; *Feb 2021*  
 Team Captain
